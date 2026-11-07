@@ -4,7 +4,34 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpeningGame.unity
+    guid: cf0924f93cbe402469212a4a00d623dc
+  - enabled: 1
+    path: Assets/Scenes/MainUtama.unity
+    guid: abe4007a7387bb548affea2c156a8d5e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 04337a12331ec2a488fc1fe1af568249
+  - enabled: 1
+    path: Assets/Scenes/AboutDevelopers.unity
+    guid: 77bc7007efb2a8a44b2b24a91b0d3221
+  - enabled: 1
+    path: Assets/Scenes/AboutGame.unity
+    guid: 1161a1546278a2844ab3a638750a5820
+  - enabled: 1
+    path: Assets/Scenes/BattleMode.unity
+    guid: 0293867bcd3d65d4f91179a2a6b35a58
+  - enabled: 1
+    path: Assets/Scenes/ScanBattleARScreen.unity
+    guid: 6d9a27dc7401b1d4fa5f2a7b129e68c0
+  - enabled: 1
+    path: Assets/Scenes/ConcertMode.unity
+    guid: b2d666f4b4dcdc04c9356eecc2c5b811
+  - enabled: 1
+    path: Assets/Scenes/ScanConcertARScerens.unity
+    guid: f7bf92e505d9b19449b66c28fd937a72
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
